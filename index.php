@@ -3,7 +3,7 @@
 		<body>
 			<body bgcolor="red">
 		Hello world
-			<embed src="Red Curtains Drawn Closed - green screen bkgnd - AE(720P_HD)_1.mp4" autostart="true"></a>
+			<a href="https://youtu.be/girIZwZUQW8" autostart="true">My Video :)</a>
 		
 		
 		
